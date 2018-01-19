@@ -1,0 +1,6 @@
+/dist/
+/build/
+/nbproject/
+/lib/
+/src/com/msprecovery/dynamodb/aws.properties
+/src/com/msprecovery/rds/RDSConnection.java
